@@ -1,0 +1,11 @@
+links:
+https://www.google.com/search?q=dog+and+cat+logo&rlz=1C1VDKB_enCA969CA969&sxsrf=AJOqlzUyGAqt_cVVAl6ylkF7RXDrbq0TjQ:1675638653084&source=lnms&tbm=isch&sa=X&ved=2ahUKEwimj8G1wP_8AhWZlYkEHXjHCoAQ_AUoAXoECAEQAw#imgrc=TWyTtEVfu3Yh8M
+https://www.google.com/search?q=images+of++animal+adoption&rlz=1C1VDKB_enCA969CA969&sxsrf=AJOqlzUIMpg37in-IQywfum-xcGlp16_Qw%3A1675725002805&ei=yojhY9XmMLmfptQPqaG5yAE&ved=0ahUKEwjV86GMgoL9AhW5j4kEHalQDhkQ4dUDCA8&uact=5&oq=images+of++animal+adoption&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQ6CggAEEcQ1gQQsAM6BggjECcQEzoGCAAQBxAeOggIABCABBDLAToECAAQHjoICAAQBRAHEB46CgghEKABEMMEEAo6BQgAEKIESgQIQRgASgQIRhgAUM0EWNQOYNQPaAJwAXgAgAF9iAHXBpIBAzYuM5gBAKABAcgBCMABAQ&sclient=gws-wiz-serp#imgrc=y026c1cF2Vr-YM
+https://www.google.com/search?q=images+of+cat+adoption&rlz=1C1VDKB_enCA969CA969&sxsrf=AJOqlzWUxFKJ82SUPNOIHrN3QQLHQYb40w%3A1675725008429&ei=0IjhY9DpGZWeptQPvZyxsAw&ved=0ahUKEwjQkfmOgoL9AhUVj4kEHT1ODMYQ4dUDCA8&uact=5&oq=images+of+cat+adoption&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQ6CggAEEcQ1gQQsAM6BggAEAcQHjoICAAQCBAHEB46CgghEKABEMMEEApKBAhBGABKBAhGGABQ5glYkg1gwg5oAnABeACAAWSIAYgCkgEDMi4xmAEAoAEByAEIwAEB&sclient=gws-wiz-serp#imgrc=UTdaP4NelFwdCM
+https://www.google.com/search?q=pewdiepie+wavy+blue&tbm=isch&ved=2ahUKEwiG0IfZ7479AhVughUDHf-UDagQ2-cCegQIABAA&oq=pewdiepie+wavy+blue&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQE1DDAliVGmDGG2gEcAB4AYABS4gBtwiSAQIxOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=VEboY4bWCu6E1sgP_6m2wAo&bih=569&biw=1280&rlz=1C1VDKB_enCA969CA969#imgrc=q6Ge1lYGu_LZgM
+
+website layout taken from W3school: https://www.w3schools.com/html/html_layout.asp
+
+all images and text for pets.html:
+https://www.spca.com/adoption/chiens-en-adoption/
+https://www.spca.com/adoption/chats-en-adoption/

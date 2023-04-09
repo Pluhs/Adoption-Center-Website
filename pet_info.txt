@@ -1,0 +1,9 @@
+1:user1:cat:persian:1:male
+2:user2:cat:siamese:3:female
+3:user1:cat:ragdoll:5:female
+4:user1:cat:sphynx:1:female
+5:user1:dog:affenpinscher:1:male
+6:user1:dog:airedale terrier:3:male
+7:user1:dog:akita:4:male
+8:user1:dog:american bulldog:1:male
+9:test:dog:affenpinscher:4:Male:f
